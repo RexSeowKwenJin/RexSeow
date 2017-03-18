@@ -1,7 +1,5 @@
 # Welcome to [Rex Seow](https://github.com/RexSeowKwenJin) Pages
 
-You also can [View My GitHub Profile](https://github.com/RexSeowKwenJin) here.
-
 ## Professional Profile
 Laborer with 3 years of IT related experience and 2 years of sales experience. 
 Specialist in problem solving and capable to adept new thing very fast.
