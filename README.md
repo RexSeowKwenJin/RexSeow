@@ -9,12 +9,16 @@ Reposible and reliable.
 
 ## Skill
 •	Languages: Java, JSP, PHP, Java script, Ajax, C++, SQL, Shell Scripting, HTML, CSS
+
 •	Applications: Netbean, Eclipse
+
 •	Application Server: Apache, Xampp
+
 •	Database Systems: Oracle, MySQL
 
 ## Project Involved
 •	Stock Trading System
+
 •	ERP System
 
 ## Working Experience
