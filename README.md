@@ -14,8 +14,8 @@ Reposible and reliable.
 •	Database Systems: Oracle, MySQL
 
 ## Project Involved
-### Stock Trading System
-### ERP System
+•	Stock Trading System
+•	ERP System
 
 ## Working Experience
 ### DZH International (Singapore), Software Programmer 
