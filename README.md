@@ -1,11 +1,7 @@
 # Welcome to [Rex Seow](https://github.com/RexSeowKwenJin) Pages
 
 ## Professional Profile
-Laborer with 3 years of IT related experience and 2 years of sales experience. 
-
-Specialist in problem solving and capable to adept new thing very fast.
-
-Reposible and reliable.
+Laborer with 3 years of IT related experience and 2 years of sales experience. Specialist in problem solving and capable to adept new thing very fast.
 
 ## Skill
 •	Languages: Java, JSP, PHP, Java script, Ajax, C++, SQL, Shell Scripting, HTML, CSS
