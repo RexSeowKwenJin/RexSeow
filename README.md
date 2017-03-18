@@ -2,7 +2,9 @@
 
 ## Professional Profile
 Laborer with 3 years of IT related experience and 2 years of sales experience. 
+
 Specialist in problem solving and capable to adept new thing very fast.
+
 Reposible and reliable.
 
 ## Skill
