@@ -51,7 +51,6 @@ Vice President of Secondary School’s Karate Club (2004/2005)
 Member of Universiti Sains Malaysia basketball team (2006-2007)
 
 
-
 ```markdown
 Syntax highlighted code block
 
